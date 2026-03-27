@@ -1,7 +1,4 @@
-## Complete Intro to React, v9 Course
-
-This is a companion repository for the [Complete Intro to React, v9][fem] course on Frontend Masters.
-[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
+## Complete Intro to React
 
 ## About this Repository
 
