@@ -17,16 +17,6 @@ To use the version of node this course was built with:
 - with [fnm](https://github.com/Schniz/fnm), `fnm use --install-if-missing`
 - with [nvm](https://github.com/nvm-sh/nvm), `nvm install`
 
-## Issues and Pull Requests
-
-Please file issues and open pull requests on [the course website repo][repo]. Feel free to open pull requests here, but the issues should go in the other repo.
-
-## License
-
-The content of this workshop is licensed under CC-BY-NC-4.0. Feel free to share freely but do not resell my content.
-
-The code, including the code of the site itself and the code in the exercises, are licensed under Apache 2.0.
-
 [fem]: https://frontendmasters.com/courses/complete-react-v9/
 [repo]: https://github.com/btholt/complete-intro-to-react-v9
 
